@@ -10,7 +10,6 @@ public class HelloSpringbootApplication {
 
 
 	public static void main(String[] args) {
-		System.out.printf("faaaaaa");
 		SpringApplication.run(HelloSpringbootApplication.class, args);
 	}
 }
